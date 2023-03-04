@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 FrontEnd developer<br>+ 2 años de experiencia<br><br>
+👨‍💻 FrontEnd developer<br><br><br>
 
 
 ## 🌐 Socials:
