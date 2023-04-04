@@ -7,7 +7,7 @@ I have been working in my pet shop for 3 years, my own business in which I apply
 
 👉 https://www.instagram.com/rascat.salto/
 
-Nos conectamos ? 💬<br><br>
+We connect ? 💬<br><br>
 
 
 ## 🌐 Socials:
