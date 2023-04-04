@@ -1,7 +1,7 @@
 # 💫 About Me:
 I have been studying self-taught for 1 year, acquiring new knowledge as a Front-End Developer, using technologies such as #HTML, #CSS, #JAVASCRIPT, #GIT, #GITHUB, #FIGMA, #BOOTSTRAP #AXIOS #DOM #AJAX #JSON 
 
-🧑‍💻 https://github.com/KAyerdi
+🧑‍💻 https://www.linkedin.com/in/kevin-ayerdi-94968412b/
 
 I have been working in my pet shop for 3 years, my own business in which I apply my knowledge in Digital Marketing developing myself as a Community Manager, ADS, Sales Funnels. 
 
