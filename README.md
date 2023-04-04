@@ -1,5 +1,13 @@
 # 💫 About Me:
-👨‍💻 FrontEnd developer<br><br>
+Hace 1 año que estudio de forma autodidacta adquiriendo nuevos conocimientos como Front-End Developer, utilizando tecnologías como #HTML, #CSS, #JAVASCRIPT, #GIT, #GITHUB, #FIGMA, #BOOTSTRAP #AXIOS #DOM #AJAX #JSON 
+
+🧑‍💻 https://github.com/KAyerdi
+
+Hace 3 años que trabajo en mi pet shop, un emprendimiento propio en el cual aplico mis conocimientos en Marketing Digital desarrollándome como Community Manager, ADS, Funnels de ventas. 
+
+👉 https://www.instagram.com/rascat.salto/
+
+Nos conectamos ? 💬<br><br>
 
 
 ## 🌐 Socials:
