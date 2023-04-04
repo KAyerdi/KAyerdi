@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hace 1 año que estudio de forma autodidacta adquiriendo nuevos conocimientos como Front-End Developer, utilizando tecnologías como #HTML, #CSS, #JAVASCRIPT, #GIT, #GITHUB, #FIGMA, #BOOTSTRAP #AXIOS #DOM #AJAX #JSON 
+I have been studying self-taught for 1 year, acquiring new knowledge as a Front-End Developer, using technologies such as #HTML, #CSS, #JAVASCRIPT, #GIT, #GITHUB, #FIGMA, #BOOTSTRAP #AXIOS #DOM #AJAX #JSON 
 
 🧑‍💻 https://github.com/KAyerdi
 
-Hace 3 años que trabajo en mi pet shop, un emprendimiento propio en el cual aplico mis conocimientos en Marketing Digital desarrollándome como Community Manager, ADS, Funnels de ventas. 
+I have been working in my pet shop for 3 years, my own business in which I apply my knowledge in Digital Marketing developing myself as a Community Manager, ADS, Sales Funnels. 
 
 👉 https://www.instagram.com/rascat.salto/
 
