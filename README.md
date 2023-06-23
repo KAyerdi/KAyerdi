@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have been studying self-taught for 1 year, acquiring new knowledge as a Front-End Developer, using technologies such as #HTML, #CSS, #BOOTSTRAP, #JAVASCRIPT, #PHP, #KissPHP, #SQL, #MySQL, #GIT, #GITHUB, #DOM, #AJAX, #JSON  #FIGMA, #AXIOS
+I have been studying self-taught for 1 year, acquiring new knowledge as a Front-End Developer, using technologies such as #REACT #JSX #HTML, #CSS, #BOOTSTRAP, #JAVASCRIPT, #PHP, #KissPHP, #SQL, #MySQL, #GIT, #GITHUB, #DOM, #AJAX, #JSON  #FIGMA, #AXIOS
 
 🧑‍💻 https://www.linkedin.com/in/kevin-ayerdi-94968412b/
 
