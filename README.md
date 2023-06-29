@@ -1,13 +1,7 @@
 # 💫 About Me:
-I have been studying self-taught for 1 year, acquiring new knowledge as a Front-End Developer, using technologies such as #REACT #JSX #HTML, #CSS, #BOOTSTRAP, #JAVASCRIPT, #PHP, #KissPHP, #SQL, #MySQL, #GIT, #GITHUB, #DOM, #AJAX, #JSON  #FIGMA, #AXIOS
+I was born on March 14, 1994 in Argentina, I am passionate about technology, soccer and pets.
 
-🧑‍💻 https://www.linkedin.com/in/kevin-ayerdi-94968412b/
-
-I have been working in my pet shop for 3 years, my own business in which I apply my knowledge in Digital Marketing developing myself as a Community Manager, ADS, Sales Funnels. 
-
-👉 https://www.instagram.com/rascat.salto/
-
-We connect ? 💬<br><br>
+One of my biggest motivations is to learn. This is how I started my self-taught times, with #Frontend courses, #Backend courses and carrying out different projects that formed me as a #FullStack developer<br><br>
 
 
 ## 🌐 Socials:
