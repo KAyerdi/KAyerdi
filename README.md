@@ -14,9 +14,7 @@ One of my biggest motivations is to learn. This is how I started my self-taught 
 ![](https://github-readme-stats.vercel.app/api?username=KAyerdi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KAyerdi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KAyerdi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<br><br>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <br><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=KAyerdi&icon=0&color=0)](https://visitcount.itsvg.in)
