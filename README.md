@@ -12,12 +12,9 @@ I am a proactive person, I learn quickly and I am very curious about new trends 
 ![Static Badge](https://img.shields.io/badge/html5-HTML5?style=for-the-badge&logo=html5&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/css3-CSS3?style=for-the-badge&logo=css3&logoColor=blue&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/bootstrap-Bootstrap?style=for-the-badge&logo=bootstrap&logoColor=violet&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/react-React?style=for-the-badge&logo=react&logoColor=blue&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/typescript-TypeScript?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=black&color=black)
 
-
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Static Badge](https://img.shields.io/badge/mongodb-MongoDB?style=for-the-badge&logo=mongodb&labelColor=black)
 
 
 
