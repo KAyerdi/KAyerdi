@@ -21,6 +21,13 @@ I am a proactive person, I learn quickly and I am very curious about new trends 
 ![Static Badge](https://img.shields.io/badge/material-Material?style=for-the-badge&logo=mui&logoColor=white&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/tailwind-TailwindCSS?style=for-the-badge&logo=tailwindcss&logoColor=blue&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/shadcn-Shadcn?style=for-the-badge&logo=shadcnui&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/python-Python?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/java-Java?style=for-the-badge&logo=oracle&logoColor=%23F80000&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/nodejs-NodeJS?style=for-the-badge&logo=node.js&logoColor=%235FA04E&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/express-Express?style=for-the-badge&logo=express&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/strapi-Strapi?style=for-the-badge&logo=strapi&logoColor=%234945FF&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/mongodb-MongoDB?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/postgreSQL-PostgreSQL?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=black&color=black)
 
 
 
