@@ -19,7 +19,8 @@ I am a proactive person, I learn quickly and I am very curious about new trends 
 ![Static Badge](https://img.shields.io/badge/remix-Remix?style=for-the-badge&logo=remix&logoColor=white&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/chakra-Chakra?style=for-the-badge&logo=chakraui&logoColor=white&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/material-Material?style=for-the-badge&logo=mui&logoColor=white&labelColor=black&color=black)
-![Static Badge](https://img.shields.io/badge/tailwind-TailwindCSS?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/tailwind-TailwindCSS?style=for-the-badge&logo=tailwindcss&logoColor=blue&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/shadcn-Shadcn?style=for-the-badge&logo=shadcnui&logoColor=white&labelColor=black&color=black)
 
 
 
