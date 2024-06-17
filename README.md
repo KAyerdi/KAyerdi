@@ -14,6 +14,12 @@ I am a proactive person, I learn quickly and I am very curious about new trends 
 ![Static Badge](https://img.shields.io/badge/bootstrap-Bootstrap?style=for-the-badge&logo=bootstrap&logoColor=violet&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/react-React?style=for-the-badge&logo=react&logoColor=blue&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/typescript-TypeScript?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/nextjs-NextJS?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black&color=black&link=nextdotjs)
+![Static Badge](https://img.shields.io/badge/redux-Redux?style=for-the-badge&logo=redux&logoColor=violet&labelColor=black&color=black&link=nextdotjs)
+![Static Badge](https://img.shields.io/badge/remix-Remix?style=for-the-badge&logo=remix&logoColor=white&labelColor=black&color=black)
+
+
+
 
 
 
