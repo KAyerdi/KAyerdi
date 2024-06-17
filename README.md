@@ -9,7 +9,8 @@ I am a proactive person, I learn quickly and I am very curious about new trends 
 <br><br>
 # 💻 Tech Stack:
 ![Static Badge](https://img.shields.io/badge/javascript-JavaScript?style=for-the-badge&logo=javascript&labelColor=black&color=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/html5-HTML5?style=for-the-badge&logo=html5&labelColor=black&color=black)
+
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
