@@ -1,7 +1,7 @@
 # 💫 About Me:
-I was born on March 14, 1994 in Argentina, I am passionate about technology, soccer and pets.
+I am a full stack software developer with 2 years of work experience. I graduated from the Vocational Training Center (CFP N°401). I have taken courses on MERN and PERN stacks at the Udemy academy. To enhance my knowledge I am currently taking an A2 Technical English course at FreeCodeCamp.
 
-One of my biggest motivations is to learn. This is how I started my self-taught times, with #Frontend courses, #Backend courses and carrying out different projects that formed me as a #FullStack developer<br><br>
+I am a proactive person, I learn quickly and I am very curious about new trends in software development.<br><br>
 
 
 ## 🌐 Socials:
