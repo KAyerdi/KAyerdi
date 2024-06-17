@@ -5,6 +5,13 @@ I am a proactive person, I learn quickly and I am very curious about new trends 
 
 
 ## 🌐 Socials:
+
+[![Static Badge](https://img.shields.io/badge/linkedin-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=black&color=black)](https://www.linkedin.com/in/kevin-perticarari-ayerdi/)
+[![Static Badge](https://img.shields.io/badge/instagram-Instagram?style=for-the-badge&logo=instagram&logoColor=%23E4405F&labelColor=black&color=black)](https://www.instagram.com/kevin.ayerdi/)
+[![Static Badge](https://img.shields.io/badge/x-x?style=for-the-badge&logo=x&labelColor=black&color=black)](https://twitter.com/Ayerdikevin)
+
+
+
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-perticarari-ayerdi/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kevin.ayerdi/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ayerdikevin) 
 <br><br>
 # 💻 Tech Stack:
