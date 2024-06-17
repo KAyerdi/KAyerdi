@@ -28,6 +28,13 @@ I am a proactive person, I learn quickly and I am very curious about new trends 
 ![Static Badge](https://img.shields.io/badge/strapi-Strapi?style=for-the-badge&logo=strapi&logoColor=%234945FF&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/mongodb-MongoDB?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/postgreSQL-PostgreSQL?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/git-Git?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/github-GitHub?style=for-the-badge&logo=github&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/postman-Postman?style=for-the-badge&logo=postman&logoColor=%23FF6C37&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/jira-Jira?style=for-the-badge&logo=jira&logoColor=%230052CC&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/cloudinary-Cloudinary?style=for-the-badge&logo=cloudinary&logoColor=%233448C5&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/render-Render?style=for-the-badge&logo=render&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/VSC-VSC?style=for-the-badge&logo=visualstudiocode&labelColor=black&color=black)
 
 
 
