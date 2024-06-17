@@ -7,8 +7,9 @@ I am a proactive person, I learn quickly and I am very curious about new trends 
 ## 🌐 Socials:
 
 [![Static Badge](https://img.shields.io/badge/linkedin-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=black&color=black)](https://www.linkedin.com/in/kevin-perticarari-ayerdi/)
-[![Static Badge](https://img.shields.io/badge/Instagram-instagram?style=for-the-badge&logo=instagram&logoColor=%23E4405F&labelColor=black&color=black)
-](https://www.instagram.com/kevin.ayerdi/)
+
+[![Static Badge](https://img.shields.io/badge/Instagram-instagram?style=for-the-badge&logo=instagram&logoColor=%23E4405F&labelColor=black&color=black)](https://www.instagram.com/kevin.ayerdi/)
+
 [![Static Badge](https://img.shields.io/badge/x-x?style=for-the-badge&logo=x&labelColor=black&color=black)
 ](https://twitter.com/Ayerdikevin)
 
