@@ -44,6 +44,7 @@ I am a proactive person, I learn quickly and I am very curious about new trends 
 ![Static Badge](https://img.shields.io/badge/vsc-Vsc?style=for-the-badge&logo=visualstudiocode&logoColor=blue&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/supabase-Supabase?style=for-the-badge&logo=supabase&logoColor=green&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/vercel-Vercel?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/netlify-Netlify?style=for-the-badge&logo=netlify&logoColor=gyan&labelColor=black&color=black)
 
 
 
