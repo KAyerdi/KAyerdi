@@ -62,7 +62,6 @@ I am a proactive person, I learn quickly and I am very curious about new trends 
 <br><br>
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KAyerdi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=KAyerdi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KAyerdi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br><br>
