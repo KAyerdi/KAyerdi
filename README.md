@@ -108,5 +108,3 @@ I am a proactive person, I learn quickly and I am very curious about new trends 
 
 ---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=KAyerdi&icon=0&color=0)](https://visitcount.itsvg.in)
-
