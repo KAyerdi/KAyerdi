@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a full stack developer with 3 years of work experience. I graduated from the Vocational Training Center (CFP N°401). I have taken courses on MERN and PERN stacks at the Udemy academy. I completed the Google & AWS AI bootcamps. To enhance my knowledge I am currently taking an A2 Technical English course at FreeCodeCamp.
+I am a full stack developer with 4 years of work experience. I graduated from the Vocational Training Center (CFP N°401). I have taken courses on MERN and PERN stacks at the Udemy academy. I completed the Google & AWS AI bootcamps. To enhance my knowledge I am currently taking an A2 Technical English course at FreeCodeCamp.
 
 I am a proactive person, I learn quickly and I am very curious about new trends in software development.
 
